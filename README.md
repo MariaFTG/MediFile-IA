@@ -56,8 +56,7 @@ Tecnologías sugeridas:
   
 ## Colaboradores 
 
-- Samara Sofia Rendón Mazo 
-- Maria Fernanda Torres
+- ([Samara Rendon](https://github.com/samirendon))
 
 ## Estado del proyecto
 
